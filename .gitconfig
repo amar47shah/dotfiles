@@ -1,0 +1,35 @@
+[user]
+	email = amar@shareprogress.org
+	name = Amar Shah
+[push]
+	default = simple
+[diff]
+	tool = vimdiff
+[alias]
+	sattus = status
+	stauts = status
+	statsu = status
+	satus = status
+	staus = status
+	statu = status
+	satuts = status
+	shwo = show
+	satsu = status
+	idff = diff
+	sattsu = status
+	tatsu = status
+	satsus = status
+	stastu = status
+	stastus = status
+	sattu = status
+	sattut = status
+	stuats = status
+	statsus = status
+	chekcout = checkout
+	sttaus = status
+	stsatus = status
+	bavv = branch -avv
+	stats = status
+[core]
+	excludesfile = ~/.config/git/ignore
+	editor = /usr/local/bin/vim
