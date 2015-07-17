@@ -30,6 +30,8 @@
 	stsatus = status
 	bavv = branch -avv
 	stats = status
+	sttus = status
+	staut = status
 [core]
 	excludesfile = ~/.config/git/ignore
 	editor = /usr/local/bin/vim
