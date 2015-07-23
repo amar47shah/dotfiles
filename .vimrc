@@ -25,6 +25,8 @@ filetype plugin on    " Enable filetype-specific plugins
 match ErrorMsg '\s\+$'
 :hi ErrorMsg ctermbg=1 ctermfg=7
 
+autocmd FileType ruby colorscheme almost-default
+
 if &diff
   colorscheme jellybeans
 endif
