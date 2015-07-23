@@ -7,6 +7,7 @@ filetype plugin on    " Enable filetype-specific plugins
 :set ruler
 :set number
 :set colorcolumn=81
+:hi ColorColumn ctermbg=7
 
 :set expandtab
 :set shiftwidth=2
@@ -22,6 +23,7 @@ filetype plugin on    " Enable filetype-specific plugins
 :set clipboard=unnamed
 
 match ErrorMsg '\s\+$'
+:hi ErrorMsg ctermbg=1 ctermfg=7
 
 if &diff
   colorscheme jellybeans
