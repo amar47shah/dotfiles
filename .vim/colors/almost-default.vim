@@ -27,6 +27,7 @@ if exists("syntax_on")
 endif
 
 " Set our own highlighting settings
+hi Folded ctermbg=233 ctermfg=241
 hi SpecialKey                   guibg=NONE
 " white on red is not always distinct in the GUI: use black on red then
 hi Error                        guibg=red           guifg=black
