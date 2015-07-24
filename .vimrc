@@ -4,6 +4,8 @@ filetype on           " Enable filetype detection
 filetype indent on    " Enable filetype-specific indenting
 filetype plugin on    " Enable filetype-specific plugins
 
+:hi Normal ctermbg=none
+
 :set ruler
 :set number
 :set colorcolumn=81
