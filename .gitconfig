@@ -32,6 +32,7 @@
 	stats = status
 	sttus = status
 	staut = status
+	statua = status
 [core]
 	excludesfile = ~/.config/git/ignore
 	editor = /usr/local/bin/vim
