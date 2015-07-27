@@ -27,6 +27,8 @@ filetype plugin on    " Enable filetype-specific plugins
 match ErrorMsg '\s\+$'
 :hi ErrorMsg ctermbg=1 ctermfg=7
 
+:set nohlsearch
+
 autocmd FileType ruby colorscheme almost-default
 
 if &diff
