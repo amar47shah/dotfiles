@@ -33,6 +33,13 @@
 	sttus = status
 	staut = status
 	statua = status
+	s = status
+	d = diff
+	di = diff
+	dif = diff
+	ds = diff --staged
+	dis = diff --staged
+	diffst = diff --staged
 [core]
 	excludesfile = ~/.config/git/ignore
 	editor = /usr/local/bin/vim
