@@ -28,6 +28,7 @@ match ErrorMsg '\s\+$'
 :hi ErrorMsg ctermbg=1 ctermfg=7
 
 :set nohlsearch
+:set noignorecase
 
 autocmd FileType ruby colorscheme almost-default
 
