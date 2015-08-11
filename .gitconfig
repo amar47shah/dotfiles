@@ -41,6 +41,7 @@
 	sttus = status
 	stuats = status
 	tatsu = status
+	sp = status --porcelain
 [core]
 	excludesfile = ~/.config/git/ignore
 	editor = /usr/local/bin/vim
