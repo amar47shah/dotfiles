@@ -12,9 +12,11 @@
 	di = diff
 	dif = diff
 	idff = diff
+	idf = diff
 	ds = diff --staged
 	dis = diff --staged
 	diffst = diff --staged
+	ids = diff --staged
 	shwo = show
 	s = status
 	satsu = status
