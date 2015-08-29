@@ -1,0 +1,1 @@
+Plugin 'lambdatoast/elm.vim'
