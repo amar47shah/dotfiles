@@ -85,4 +85,4 @@ unsetopt nomatch
 # chruby
 source /usr/local/share/chruby/chruby.sh
 source /usr/local/share/chruby/auto.sh
-chruby 2.2.2
+chruby 2.2.3
