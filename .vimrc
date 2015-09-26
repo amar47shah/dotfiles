@@ -30,8 +30,6 @@ match ErrorMsg '\s\+$'
 :set nohlsearch
 :set noignorecase
 
-autocmd FileType ruby colorscheme almost-default
-
 if &diff
   colorscheme jellybeans
 endif
