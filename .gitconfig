@@ -6,6 +6,7 @@
 [diff]
 	tool = vimdiff
 [alias]
+	bav = branch -avv
 	bavv = branch -avv
 	chekcout = checkout
 	d = diff
@@ -44,6 +45,11 @@
 	stuats = status
 	tatsu = status
 	sp = status --porcelain
+	b = branch -avv
+	ba = branch -avv
+	shpw = show
+	f = fetch
+	sh = show
 [core]
 	excludesfile = ~/.config/git/ignore
 	editor = /usr/local/bin/vim
