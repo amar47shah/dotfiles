@@ -50,6 +50,8 @@
 	stuats = status
 	tatsu = status
 	sp = status --porcelain
+	commti = commit
+	dsi = diff --staged
 [core]
 	excludesfile = ~/.config/git/ignore
 	editor = /usr/local/bin/vim
