@@ -11,6 +11,7 @@
 	bav = branch -avv
 	bavv = branch -avv
 	chekcout = checkout
+	commti = commit
 	d = diff
 	di = diff
 	dif = diff
@@ -19,6 +20,7 @@
 	ds = diff --staged
 	dis = diff --staged
 	diffst = diff --staged
+	dsi = diff --staged
 	ids = diff --staged
 	f = fetch
 	sh = show
@@ -50,8 +52,6 @@
 	stuats = status
 	tatsu = status
 	sp = status --porcelain
-	commti = commit
-	dsi = diff --staged
 [core]
 	excludesfile = ~/.config/git/ignore
 	editor = /usr/local/bin/vim
