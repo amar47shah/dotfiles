@@ -86,3 +86,6 @@ unsetopt nomatch
 source /usr/local/share/chruby/chruby.sh
 source /usr/local/share/chruby/auto.sh
 chruby 2.3.1
+
+# OPAM configuration
+. /Users/amar/.opam/opam-init/init.zsh > /dev/null 2> /dev/null || true
