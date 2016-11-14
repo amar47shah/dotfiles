@@ -11,6 +11,7 @@
 	bav = branch -avv
 	bavv = branch -avv
 	chekcout = checkout
+	chekout = checkout
 	commti = commit
 	d = diff
 	di = diff
@@ -22,7 +23,7 @@
 	diffst = diff --staged
 	dsi = diff --staged
 	ids = diff --staged
-	f = fetch
+	f = fetch --prune
 	sh = show
 	shpw = show
 	shwo = show
