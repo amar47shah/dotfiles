@@ -78,6 +78,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias be="bundle exec"
 
 # If a pattern for filename generation has no matches, leave it unchanged.
 unsetopt nomatch
