@@ -36,3 +36,5 @@ endif
 
 let g:airline#extensions#tabline#enabled = 1
 let g:airline#extensions#tabline#fnamemod = ':t'
+
+let hscoptions="𝐒𝐓𝐄𝐌xRtB𝔻w℘xe⇔⇒rbl↱-iQ1a"
